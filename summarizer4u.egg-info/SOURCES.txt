@@ -1,0 +1,11 @@
+README.md
+con.py
+setup.py
+summarizer4u/__init__.py
+summarizer4u/summarizer4u.py
+summarizer4u.egg-info/PKG-INFO
+summarizer4u.egg-info/SOURCES.txt
+summarizer4u.egg-info/dependency_links.txt
+summarizer4u.egg-info/not-zip-safe
+summarizer4u.egg-info/requires.txt
+summarizer4u.egg-info/top_level.txt
