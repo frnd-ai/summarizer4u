@@ -4,10 +4,17 @@ Get your text summarized !
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
 pip install summarizer4u
+```
+
+## Install from source
+
+```bash
+cd summarizer4u 
+python setup.py
 ```
 
 ## Usage
