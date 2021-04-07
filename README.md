@@ -1,5 +1,8 @@
 # summarizer4u
 
+[![Downloads](https://static.pepy.tech/personalized-badge/summarizer4u?period=month&units=international_system&left_color=black&right_color=green&left_text=Downloads)](https://pepy.tech/project/summarizer4u)
+
+
 Get your text summarized !
 
 ## Installation
